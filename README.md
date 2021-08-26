@@ -50,7 +50,7 @@ I feel like I should practice flexbox and responsive designs more. I want to per
 
 ### Useful resources
 
-- [resource 1](https://youtu.be/bn-DQCifeQQ) - This helped me understand how to create respomsive designs.
+- [resource 1](https://youtu.be/bn-DQCifeQQ) - This helped me understand how to create responsive designs.
 - [resource 2](https://youtu.be/N5wpD9Ov_To) - This is an amazing video which helped me finally understand the correct usage of units in css and how it is important in creating responsive designs. I'd recommend it to anyone still learning this concept.
 - [resource 3](https://postimages.org/) This is a great site where you can upload screenshots of your website and they provide you with direct links and github markdowns.
 
