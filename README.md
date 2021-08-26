@@ -21,7 +21,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Screenshot
 
 ![Fire-Shot-Capture-001-Order-summary-card.png](https://postimg.cc/SjxYmpxG)
-
+Link- https://postimg.cc/SjxYmpxG
 ### Built with
 
 - Semantic HTML5 markup
@@ -58,7 +58,7 @@ I feel like I should practice flexbox and responsive designs more. I want to per
 
 - Github profile- [Prachi Garg](https://github.com/prachigarg19)
 - Frontend Mentor - [@prachigarg19](https://www.frontendmentor.io/profile/prachigarg19)
--LinkedIn-[Prachi Garg](https://www.linkedin.com/in/prachi-garg-a788a421a)
+- LinkedIn- [Prachi Garg](https://www.linkedin.com/in/prachi-garg-a788a421a)
 
 ## Acknowledgments
 
